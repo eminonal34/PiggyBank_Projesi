@@ -1,0 +1,24 @@
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\bin\Debug\Piggy Bank Project.exe.config
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\bin\Debug\Piggy Bank Project.exe
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\bin\Debug\Piggy Bank Project.pdb
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.csproj.AssemblyReference.cache
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy_Bank_Project.Form1.resources
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy_Bank_Project.Properties.Resources.resources
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.csproj.GenerateResource.cache
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.csproj.CoreCompileInputs.cache
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.exe
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.pdb
+C:\Users\koguz\Desktop\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy_Bank_Project.Put_money_form.resources
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\bin\Debug\Piggy Bank Project.exe.config
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\bin\Debug\Piggy Bank Project.exe
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\bin\Debug\Piggy Bank Project.pdb
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy_Bank_Project.Form1.resources
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy_Bank_Project.Properties.Resources.resources
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy_Bank_Project.Put_money_form.resources
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.csproj.GenerateResource.cache
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.exe
+C:\Users\Emin\Desktop\proje\Piggy Bank Project\Piggy Bank Project\obj\Debug\Piggy Bank Project.pdb
